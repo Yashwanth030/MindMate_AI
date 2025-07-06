@@ -1,4 +1,4 @@
-![questions](https://github.com/user-attachments/assets/e6527f26-4a2c-441d-b31c-5bee097ff81d)# MindMate_AI – AI-Powered Mental Health Support System
+# MindMate_AI – AI-Powered Mental Health Support System
 
 MindMate_AI is an intelligent web-based system that empowers users to assess and manage their mental health through interactive tools such as facial emotion detection, depression screening, sentiment analysis, and AI-driven chatbot support.
 
@@ -28,7 +28,7 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 | Login Page | Home Page | About Page |
 |------------|-----------|------------|
-| (![login](https://github.com/user-attachments/assets/7e79087e-42b4-4b6e-92b4-d085b137ec6a) | ![homepage](https://github.com/user-attachments/assets/43e90b2c-8b79-4004-9f74-47d6dafb0ab9)| ![about](https://github.com/user-attachments/assets/bab52b67-2b8d-4569-946e-488a8e2f5752)|
+|![login](https://github.com/user-attachments/assets/7e79087e-42b4-4b6e-92b4-d085b137ec6a) | ![homepage](https://github.com/user-attachments/assets/43e90b2c-8b79-4004-9f74-47d6dafb0ab9)| ![about](https://github.com/user-attachments/assets/bab52b67-2b8d-4569-946e-488a8e2f5752)|
 
 ---
 

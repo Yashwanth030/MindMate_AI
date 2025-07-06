@@ -36,8 +36,7 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 | PHQ-9 Questionnaire |sentimental Description|
 |---------------------|----------------------|
-|![questions](https://github.com/user-attachments/assets/db8e3fa9-eb6a-42ff-90c0-1e5cef3be8d7)
-|![result of description](https://github.com/user-attachments/assets/6b8d773e-e35c-4ab1-a5ef-87ea85ec8742)|
+|![questions](https://github.com/user-attachments/assets/db8e3fa9-eb6a-42ff-90c0-1e5cef3be8d7)|![result of description](https://github.com/user-attachments/assets/6b8d773e-e35c-4ab1-a5ef-87ea85ec8742)|
 
 ---
 
@@ -57,21 +56,33 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
-- 🔒 User registration and login (MySQL-based)
-- 😊 Live webcam-based **Facial Emotion Detection** using CNN & OpenCV
-- 📋 **PHQ-9 Questionnaire** – Clinical depression assessment
-- 🤖 **AI Chatbot** – NLP-driven chatbot using custom intent dataset
-- 🧠 **Sentiment & Text Classification** – TF-IDF + ML for mental state detection
-- 📊 **Excel Export** – Depression results & emotion logs saved for analysis
-- 🧘‍♀️ Personalized well-being **recommendations** based on score
+- User registration and login (MySQL-based)
+- Live webcam-based **Facial Emotion Detection** using CNN & OpenCV
+- **PHQ-9 Questionnaire** – Clinical depression assessment
+- **AI Chatbot** – NLP-driven chatbot using custom intent dataset
+- **Sentiment & Text Classification** – TF-IDF + ML for mental state detection
+- **Excel Export** – Depression results & emotion logs saved for analysis
+- Personalized well-being **recommendations** based on score
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 **Frontend:**
 - HTML, CSS, Bootstrap, JavaScript
-
 **Backend:**
+- Flask, Python
+
+**AI/ML:**
+- TensorFlow/Keras, Scikit-learn, OpenCV, NLTK, Imbalanced-learn
+
+**Database:**
+- MySQL + Flask-MySQLdb
+
+**Others:**
+- dotenv, joblib, pickle, Pandas, NumPy, imutils
+
+---
+

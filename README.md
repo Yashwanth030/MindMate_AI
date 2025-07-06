@@ -22,12 +22,11 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 ## 🖼️ Snapshots of Working UI
 
-> 📌 Replace below links with your image paths (`/static/img/` or hosted GitHub URLs)
 
 | Login Page | Chatbot Interface | Depression Test | Emotion Detection |
 |------------|-------------------|-----------------|-------------------|
-| ![](![login](https://github.com/user-attachments/assets/f4e9a06b-c075-403e-9983-4f33d4560674)
-) | ![](static/img/chatbot.png) | ![](static/img/phq9.png) | ![](static/img/emotion.png) |
+| (![login](https://github.com/user-attachments/assets/f4e9a06b-c075-403e-9983-4f33d4560674)
+ | ![](static/img/chatbot.png) | ![](static/img/phq9.png) | ![](static/img/emotion.png) |
 
 ---
 

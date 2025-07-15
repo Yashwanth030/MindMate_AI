@@ -62,7 +62,7 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 ## Core Features
 
 - User registration and login (MySQL-based)
-- Live webcam-based **Facial Emotion Detection** using CNN & OpenCV
+- Live webcam-based **Facial Emotion Detection** using CNN & OpenCV trained on the FER-2013 dataset.
 - **PHQ-9 Questionnaire** – Clinical depression assessment
 - **AI Chatbot** – NLP-driven chatbot using custom intent dataset
 - **Sentiment & Text Classification** – TF-IDF + ML for mental state detection

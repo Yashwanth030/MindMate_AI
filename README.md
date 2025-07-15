@@ -63,7 +63,7 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 - User registration and login (MySQL-based)
 - Live **Facial Emotion Detection** FER-2013 dataset trained using categorical crossentropy ADAM optimizer CNN & OpenCV to perfrom via webcam.
-- **PHQ-9 Questionnaire** – Clinical depression assessment, user selects answers for 9 questions, each mapped to scores (0–3).Total score is interpreted (e.g., mild, moderate, severe depression).Based on results,it shows personalized self-care suggestions. Personalized well-being **recommendations** based on score.
+- **PHQ-9 (Questionnaire)** – Clinical depression assessment, user selects answers for 9 questions, each mapped to scores (0–3).Total score is interpreted (e.g., mild, moderate, severe depression).Based on results,it shows personalized self-care suggestions. Personalized well-being **recommendations** based on score.
 - **AI Chatbot** – NLP-driven chatbot using custom 20 intents dataset of user queries and trained TF-IDF + SVM/RF model using scikit learn.
 - **Sentiment & Text Classification** – TF-IDF + ML for mental state detection used 274 labeled statements.
 - **Excel Export** – Depression results & emotion logs saved using pandas for analysis.

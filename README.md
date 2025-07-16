@@ -53,7 +53,7 @@ Mental health issues like anxiety, stress, and depression often go unnoticed due
 
 ### Accuracy 
 
-| Model Accuracy |
+|Sentimental analusis model accuracy |
 |----------------|
 | ![accuracy and report](https://github.com/user-attachments/assets/93e4ef7c-6e65-435c-978b-80558f7e4ab9)|
 
